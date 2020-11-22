@@ -64,23 +64,11 @@ console.log(responseJson);
   },
   {
       
-    name:"John Doe",
-    album:"https://nexter.org/wp-content/uploads/2020/02/car_accident_pic-1280x720.jpg", 
+    name:"Jane Doe",
+    album:"https://tmcattorneys.com/wp-content/uploads/2019/04/rearendcaraccident3.jpg", 
     artist:"Rear end collision, nobody injured, avoid this street for now",
     timestamp:"11/22/2020 5:10 AM"
-  },  {
-      
-    name:"John Doe",
-    album:"https://nexter.org/wp-content/uploads/2020/02/car_accident_pic-1280x720.jpg", 
-    artist:"Rear end collision, nobody injured, avoid this street for now",
-    timestamp:"11/22/2020 5:10 AM"
-  },  {
-      
-    name:"John Doe",
-    album:"https://nexter.org/wp-content/uploads/2020/02/car_accident_pic-1280x720.jpg", 
-    artist:"Rear end collision, nobody injured, avoid this street for now",
-    timestamp:"11/22/2020 5:10 AM"
-  },
+  }
   ]
   }
 
