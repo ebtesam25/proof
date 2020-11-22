@@ -1,0 +1,12 @@
+{
+  "name": "proof-app",
+  "displayName": "proof-app",
+  "expo": {
+    "name": "proof-app",
+    "slug": "proof-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
